@@ -41,6 +41,7 @@ public class Player : MonoBehaviour
                     //Can move only on the Z
                     moveDir = moveDirZ;
                 }
+                // nothing
             }
 
         }
